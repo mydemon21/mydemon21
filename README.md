@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajal Patel</h1>
 <h3 align="center">CSE Student from India | Passionated to become AI & ML Engineer</h3>
-
+(https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif)
 - 🌱 I’m currently learning **Langchain and Generative Ai**
 
 - 📫 How to reach me **sajalpatel2152003@gmail.com**
